@@ -1,0 +1,26 @@
+{
+  "type": "result",
+  "success": true,
+  "result": [ 
+    {
+      "entity_id": "sensor.temperature",
+      "state": 75
+    },
+    {
+      "entity_id": "sensor.humidity",
+      "state": 50
+    },
+    {
+      "entity_id": "switch.outdoor_lights",
+      "state": "off"
+    },
+    {
+      "entity_id": "switch.kitchen_lights",
+      "state": "on"
+    },
+    {
+      "entity_id": "sensor.customer_lights",
+      "state": 75
+    }
+  ]
+}
