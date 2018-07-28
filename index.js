@@ -1,1 +1,1 @@
-exports = module.exports = require('./lib/hass');
+exports = module.exports = require('./lib/mock');
